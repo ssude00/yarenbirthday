@@ -1,0 +1,85 @@
+body
+{
+    margin-top: 70px;
+    text-align: center;
+        font-family: "Happy Monkey", serif;
+        font-weight: 400;
+        font-style: normal;
+        color: white;
+        background-color: #b9ce92;
+}
+
+#dualipa
+{
+    width: 300px;
+    border-radius:50%;
+    border: 7px solid rgb(33, 33, 33);
+} 
+
+h1, h2,h3, h4, p
+{
+    text-shadow: 0px 0px 4px black;
+}
+
+#date, #age
+{
+    background-color: black;
+    padding: 7px 12px;
+    border-radius: 9px;
+    margin: 15px;
+}
+
+#header
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.gift-img
+{
+    width: 900px;
+    height: 500px;
+    background-image: url("images/hediye-paketi1-Photoroom.png");
+    margin: 0 auto;
+    padding-bottom: 20px;
+}
+
+#gift-img-happy:hover
+{
+    background-image: url("images/happybirthdaygif.gif");
+    background-size: 460px 420px;
+    background-repeat: no-repeat;
+    background-position: 240px;
+}   
+
+#gift-img-hot:hover
+{
+    background-image: url("images/tomoyo\ daidouji\ love\ GIF\ \(1\).gif");
+    background-size: 450px 420px;
+    background-repeat: no-repeat;
+    background-position: 240px;
+}   
+
+#gift-img-one:hover
+{
+    background-image: url("images/Happy\ Season\ 9\ GIF\ by\ The\ Office.gif");
+    background-size: 480px 400px;
+    background-repeat: no-repeat;
+    background-position: 220px;
+}   
+
+.gift-section
+{
+    margin-top: 60px ;
+}
+
+#yazı
+{
+    width: 250px;
+    margin-bottom: 60px;
+    border: 3px solid black;
+    padding: 20px;
+    margin: auto;
+    margin-bottom: 40px;
+}
